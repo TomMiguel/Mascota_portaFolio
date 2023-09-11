@@ -1,4 +1,3 @@
-<!--Tomy -->
 <?php
 
 include ("BDClass.php");
